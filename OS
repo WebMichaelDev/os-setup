@@ -1,4 +1,5 @@
 xcode-select --install
+https://bjango.com/mac/istatmenus/?ref=producthunt
 install homebrew, iterminal and oh my zsh: https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/
 # update iterm2 settings -> colors, keep directory open new shell, keyboard shortcuts
 brew install bash # latest version of bash
@@ -9,7 +10,6 @@ brew install vcprompt
 brew cask install spectacle
 brew cask install alfred
 # set CMD+space to launch alfred
-brew cask install firefox
 # install nvm/node
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
 nvm install stable
