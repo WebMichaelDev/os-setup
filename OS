@@ -25,3 +25,6 @@ Update git.config
 	name = 			
 [core]
 	editor = nano
+
+Time-Out
+https://www.dejal.com/download/?prod=timeout&vers=2.6&rel=gen&lang=en&op=show&ref=timeout
