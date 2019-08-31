@@ -11,8 +11,6 @@ brew cask install spectacle
 brew cask install alfred
 # set CMD+space to launch alfred
 # install nvm/node
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
-nvm install stable
 mkdir ~/workspace
 npm install -g lite-server eslint
 # update vscode settings
@@ -21,3 +19,9 @@ brew cask install: spotify, visual-studio-code google-chrome firefox
 brew cask install visual-studio-code
 install adobe
 install dropbox
+Update git.config
+[user]
+	email = 
+	name = 			
+[core]
+	editor = nano
