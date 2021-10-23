@@ -1,5 +1,6 @@
 xcode-select --install
 https://bjango.com/mac/istatmenus/?ref=producthunt
+https://gist.github.com/kevin-smets/8568070 OHMYZSH POWERLEVEL
 install homebrew, iterminal and oh my zsh: https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/
 # update iterm2 settings -> colors, keep directory open new shell, keyboard shortcuts
 brew install bash # latest version of bash
